@@ -59,15 +59,12 @@ public class DailyRecordServiceImpl implements DailyRecordService {
 			int r = record.get(i).getPart();
 			for(int j=4; j>0; j--) { 
 				if(r/(int)Math.pow(2,j)!=0){
-		            System.out.println(j);
 		            r = r - (int)Math.pow(2,j);
 			        p = p|(1<<j);
 		        }
 			}
 			
 		}
-		System.out.println("p");
-		System.out.println(p);
 		
 		List<Video> result = new ArrayList<>();
 		int n = 0;
@@ -86,24 +83,21 @@ public class DailyRecordServiceImpl implements DailyRecordService {
 	
 	public void PartNumber(int p) {
 		this.partStr = "";
-		System.out.println(p);
 		String[] arr = {"","상체","하체","복근","전신"};
 		
-		if(p==0) {
+		if(p==0 || p==16) {
 			this.partStr="전신, "; //이미 골고루 다 함 
 			return;
 		}
 		
 		for(int i=4; i>0; i--) { 
 			if(p/(int)Math.pow(2,i)!=0){
-	            System.out.println(i);
 	            p = p - (int)Math.pow(2,i);
 	            if(i==4) continue; //전신은 세부 부위 추천에서 뺀다 왜냐면 그냥 
 	            this.partStr = this.partStr+arr[i]+", ";
 	        }
 		}
 		
-		System.out.println(this.partStr);
 		
 	}
 	

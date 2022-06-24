@@ -50,7 +50,7 @@ public class VideoController {
 	@GetMapping("/{videoId}")
 	public ResponseEntity<Video> videoByVideoId(@PathVariable String videoId){
 		Video video = videoService.selectByVideoId(videoId);
-		System.out.println(video.toString());
+		//System.out.println(video.toString());
 		return new ResponseEntity<Video>(video,HttpStatus.OK);
 	}
 	
@@ -58,7 +58,7 @@ public class VideoController {
 	public ResponseEntity<String> addVideo(Video video){
 		List<Video> videos = new ArrayList<Video>();
 		videos.add(video);
-		System.out.println(video.toString());
+		//System.out.println(video.toString());
 		videoService.addVideos(videos);
 		return new ResponseEntity<String>(SUCCESS,HttpStatus.CREATED);
 	}

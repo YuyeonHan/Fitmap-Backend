@@ -8,7 +8,7 @@
 1. Heatmap을 통한 운동 기록 시각화<br>
 2. 알고리즘에 의한 운동 부위 추천<br>
 3. 월별 운동 시간 랭킹 제공<br>
-4. 회원 별 팔로우 기능 및 친구의 운동 근황 제공<br>
+4. 회원 별 개인 페이지 및 팔로우 기능<br>
 
 ## 실행 환경
 - Window 11
@@ -31,3 +31,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
