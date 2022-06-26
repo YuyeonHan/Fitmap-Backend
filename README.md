@@ -82,7 +82,7 @@
 <!-- ![ranking](https://user-images.githubusercontent.com/83811753/175809527-5d71bb05-783f-49a2-9e59-61dfb1a5a437.png) -->
 
 - 친구 관리 및 친구의 운동 기록 
-<img id="friends" src = "https://user-images.githubusercontent.com/83811753/175809533-39b7b979-1cc3-4866-bdff-4a2922dde0d5.png" width = "60%" height="60%"><br>
-<img id="friends_record" src = "https://user-images.githubusercontent.com/83811753/175809529-31eb66a9-18af-48ed-ac03-289c6f9f7219.png" width = "70%" height="70%"><br>
+<img id="friends" src = "https://user-images.githubusercontent.com/83811753/175809533-39b7b979-1cc3-4866-bdff-4a2922dde0d5.png" width = "70%" height="70%"><br>
+<img id="friends_record" src = "https://user-images.githubusercontent.com/83811753/175809529-31eb66a9-18af-48ed-ac03-289c6f9f7219.png" width = "60%" height="60%"><br>
 <!-- ![친구관리](https://user-images.githubusercontent.com/83811753/175809533-39b7b979-1cc3-4866-bdff-4a2922dde0d5.png)
 ![친구운동](https://user-images.githubusercontent.com/83811753/175809529-31eb66a9-18af-48ed-ac03-289c6f9f7219.png) -->
