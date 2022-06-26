@@ -59,23 +59,23 @@
 - 운동기록 CRUD
 
 ## 결과 화면
-- 회원 별 개인 페이지 <br>
+### 회원 별 개인 페이지 <br>
 <img id="mypage" src = "https://user-images.githubusercontent.com/83811753/175809637-4e41fbe4-1f36-46fd-827f-c6531f83fa32.png" width = "90%" height="90%"><br>
 <img id="mypage2" src = "https://user-images.githubusercontent.com/83811753/175809636-1f65d62b-75d5-4792-8748-b9c40bb78c4c.png" width = "90%" height="90%"><br>
 
-- 운동 데일리기록 기반 운동 부위 추천<br>
+### 운동 데일리기록 기반 운동 부위 추천<br>
 <img id="daily_record" src = "https://user-images.githubusercontent.com/83811753/175809283-047b558b-c3e5-48ef-adf1-859f0ce02933.png" width = "70%" height="70%"><br>
 <img id="video recommended" src = "https://user-images.githubusercontent.com/83811753/175809315-168803a4-c159-4234-b815-4fb84cfc882b.png" width = "70%" height="70%"><br>
 
 
-- 운동 기록 CRUD 및 Heatmap으로 시각화<br>
+### 운동 기록 CRUD 및 Heatmap으로 시각화<br>
 <img id="daily_record_CRUD" src = "https://user-images.githubusercontent.com/83811753/175809439-6a14233d-5e91-456f-876b-b8bc6b1dbde1.png" width = "85%" height="85%"><br>
 <img id="Heatmap" src = "https://user-images.githubusercontent.com/83811753/175809441-90138358-cc3c-4a6b-a46e-b729935e4cad.png" width = "70%" height="70%"><br>
 <br>
 
-- 운동 시간 기준 월별 회원 랭킹<br>
+### 운동 시간 기준 월별 회원 랭킹<br>
 <img id="ranking" src = "https://user-images.githubusercontent.com/83811753/175809527-5d71bb05-783f-49a2-9e59-61dfb1a5a437.png" width = "40%" height="40%"><br>
 
-- 친구 관리 및 친구의 운동 기록 <br>
+### 친구 관리 및 친구의 운동 기록 <br>
 <img id="friends" src = "https://user-images.githubusercontent.com/83811753/175809533-39b7b979-1cc3-4866-bdff-4a2922dde0d5.png" width = "700%" height="70%"><br>
 <img id="friends_record" src = "https://user-images.githubusercontent.com/83811753/175809529-31eb66a9-18af-48ed-ac03-289c6f9f7219.png" width = "40%" height="40%"><br>
