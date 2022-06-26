@@ -1,6 +1,5 @@
 # Fitmap-Backend
 **FITMAP은 사용자의 운동 기록을 Heatmap으로 시각화해 보여주고, 균형있는 운동 부위 추천을 통해 사용자들이 건강한 운동 습관을 형성할 수 있도록 돕는 서비스입니다.** <br>
-<br>
 [FITMAP 소개 자료](SSAFY_서울7반_1조_FITMAP.pdf) 
 
 ![fitmap_main](https://user-images.githubusercontent.com/83811753/175043224-25522a43-b5d2-4a99-a2ea-f5cdf6c8dae4.png)<br>
@@ -61,11 +60,12 @@
 
 ## 결과 화면
 - 회원 별 개인 페이지 
-![mypage](https://user-images.githubusercontent.com/83811753/175809637-4e41fbe4-1f36-46fd-827f-c6531f83fa32.png)
-<br>
+![mypage](https://user-images.githubusercontent.com/83811753/175809637-4e41fbe4-1f36-46fd-827f-c6531f83fa32.png)<br>
 ![친구페이지](https://user-images.githubusercontent.com/83811753/175809636-1f65d62b-75d5-4792-8748-b9c40bb78c4c.png)
 
 - 운동 데일리기록 기반 운동 부위 추천
+<img src = "https://user-images.githubusercontent.com/83811753/175809283-047b558b-c3e5-48ef-adf1-859f0ce02933.png" width = "70%" height="70%"><br>
+
 ![데일리 기록](https://user-images.githubusercontent.com/83811753/175809283-047b558b-c3e5-48ef-adf1-859f0ce02933.png){: width="70%" height="70%"}
 ![영상 추천](https://user-images.githubusercontent.com/83811753/175809315-168803a4-c159-4234-b815-4fb84cfc882b.png)
 
