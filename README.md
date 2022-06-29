@@ -13,7 +13,7 @@
 
 <!-- [![발표영상](http://img.youtube.com/vi/uRWiP32PyVA/0.jpg)](https://youtu.be/uRWiP32PyVA "FITMAP 발표") -->
 
-
+<br>
 
 ## 핵심 기능
 1. Heatmap을 통한 운동 기록 시각화<br>
