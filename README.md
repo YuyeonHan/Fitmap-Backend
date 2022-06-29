@@ -7,12 +7,11 @@
 
 ## 소개 및 시연 영상
 ### 시연 영상
-[![시연영상](https://user-images.githubusercontent.com/83811753/176327316-910fcbcd-6ee4-4656-b35c-cc1f97896ff9.png)](https://youtu.be/VpVORzzLoD4 "FITMAP 시연 영상")
+[![시연영상](https://user-images.githubusercontent.com/83811753/176327316-910fcbcd-6ee4-4656-b35c-cc1f97896ff9.png)](햐https://youtu.be/VpVORzzLoD4 "FITMAP 시연 영상")
 
+### 발표 영상 https://youtu.be/uRWiP32PyVA
 
-### 발표 영상
-
-[![발표영상](http://img.youtube.com/vi/uRWiP32PyVA/0.jpg)](https://youtu.be/uRWiP32PyVA "FITMAP 발표")
+<!-- [![발표영상](http://img.youtube.com/vi/uRWiP32PyVA/0.jpg)](https://youtu.be/uRWiP32PyVA "FITMAP 발표") -->
 
 
 
