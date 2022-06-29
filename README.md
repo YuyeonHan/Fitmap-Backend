@@ -1,4 +1,4 @@
-# Fitmap-Backend
+# Fitmap
 **FITMAP은 사용자의 운동 기록을 Heatmap으로 시각화해 보여주고, 균형있는 운동 부위 추천을 통해 사용자들이 건강한 운동 습관을 형성할 수 있도록 돕는 서비스입니다.** <br>
 [FITMAP 소개 자료](SSAFY_서울7반_1조_FITMAP.pdf) 
 
@@ -7,7 +7,7 @@
 
 ## 소개 및 시연 영상
 ### 시연 영상
-[![시연영상](https://user-images.githubusercontent.com/83811753/176327316-910fcbcd-6ee4-4656-b35c-cc1f97896ff9.png)](햐https://youtu.be/VpVORzzLoD4 "FITMAP 시연 영상")
+[![시연영상](https://user-images.githubusercontent.com/83811753/176327316-910fcbcd-6ee4-4656-b35c-cc1f97896ff9.png)](https://youtu.be/VpVORzzLoD4 "FITMAP 시연 영상")
 
 ### 발표 영상 https://youtu.be/uRWiP32PyVA
 
