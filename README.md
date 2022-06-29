@@ -6,13 +6,13 @@
 <!--FITMAP is a service that helps users to build their healthy exercise habits through visualizing their daily exercise records as a heatmap, and recommending daily workout parts.<br>-->
 
 ## 소개 및 시연 영상
-### 시연 
+### 시연 영상
+[![시연영상](http://img.youtube.com/vi/VpVORzzLoD4/0.jpg)](https://youtu.be/VpVORzzLoD4 "FITMAP 시연 영상")
 
-<iframe width="640" height="360" src="https://youtube/VpVORzzLoD4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ### 발표 영상
 
-<iframe width="640" height="360" src="https://youtube/uRWiP32PyVA" frameborder="0" gesture="media" a
+[![발표영상](http://img.youtube.com/vi/uRWiP32PyVA/0.jpg)](https://youtu.be/uRWiP32PyVA "FITMAP 발표")
 
 
 
